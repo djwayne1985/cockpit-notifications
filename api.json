@@ -9,17 +9,8 @@
       "icon": "bi-code-slash",
       "url": "https://t.me/Fladnag2018"
     },
-	{
-      "id": 2,
-      "title": "CP2 Under Development",
-      "message": "Cockpit v2 is under development.",
-      "timestamp": "2023-07-12T15:30:00Z",
-      "icon": "bi-code-slash",
-      "url": ""
-      
-    },
     {
-      "id": 3,
+      "id": 2,
       "title": "Contact @Fladnag",
       "message": "Contact @Fladnag for pre-orders.",
       "timestamp": "2023-07-11T09:15:00Z",
@@ -27,7 +18,7 @@
       "url": "https://t.me/Fladnag2018"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Buy me a Coffee",
       "message": "Buy me a drink: Cashapp £ianwoneill",
       "timestamp": "2023-07-10T18:45:00Z",
